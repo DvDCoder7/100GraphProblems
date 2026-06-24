@@ -1,5 +1,4 @@
-// https://codeforces.com/group/ibNhxWfOek/contest/341358/problem/A
-// Difficulty: Easy ⭐️
+// Difficuldade: Muito Fácil ⭐️
 
 #include <bits/stdc++.h>
 using namespace std;

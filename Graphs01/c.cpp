@@ -1,3 +1,5 @@
+// Difficuldade: Muito Fácil ⭐️
+
 #include <bits/stdc++.h>
 using namespace std;
 
