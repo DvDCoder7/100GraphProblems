@@ -1,3 +1,6 @@
+// NOTA: O editorial do codeforces resolve de uma forma muito mais simples
+// https://codeforces.com/problemset/problem/1511/D
+
 #include <bits/stdc++.h>
 using namespace std;
 
