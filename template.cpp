@@ -3,10 +3,14 @@ using namespace std;
 
 typedef long long ll;
 #define MAXN ((int) 2*1e6)
-#define vi vector<int>
-#define pb push_back
 #define all(x) x.begin(), x.end()
 #define sz(x) (int)x.size()
+#define vi vector<int>
+#define vvi vector<vi>
+#define vp vector<pii>
+#define vvp vector<vp>
+#define pii pair<int, int>
+#define pb push_back
 
 void solve() {
     
