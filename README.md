@@ -4,4 +4,4 @@ https://codeforces.com/group/ibNhxWfOek/contests
 
 Template que uso está em `template.cpp`
 
-Progresso atual: 53 / 100 [##########··········]
+Progresso atual: 55 / 100 [###########·········]
