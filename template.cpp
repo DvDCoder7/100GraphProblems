@@ -6,6 +6,7 @@ typedef long long ll;
 #define all(x) x.begin(), x.end()
 #define sz(x) (int)x.size()
 #define vi vector<int>
+#define vll vector<ll>
 #define vvi vector<vi>
 #define vp vector<pii>
 #define vvp vector<vp>
